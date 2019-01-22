@@ -1,2 +1,2 @@
 # portafolio
-#Ejemeplos de tableau siando javascript
+#Ejemeplos de tableau usando el API para javascript
