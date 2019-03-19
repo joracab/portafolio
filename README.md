@@ -1,22 +1,28 @@
-# portafolio
+# Portafolio
 
-#TABLEAU
+# TABLEAU
 
-#Ejemplos de tableau usando el API para javascript
+* Ejemplos de tableau usando el API para javascript
 
-#Insercion de tableros en web
+* Insercion de tableros en web
 
 https://joracab.github.io/portafolio/tableau_ejemplo1
 
-#Slider de tableros en uns sitio web
+ * Slider de tableros en uns sitio web
 
 https://joracab.github.io/portafolio/tableau_ejemplo2
 
-#Python - recuros de ciencia de datos
 
-# ejemplo de SVM
+* Análsis en tableau
+
+https://public.tableau.com/profile/joracab1
+
+# PYTHON - recursos de ciencia de datos
+
+# Ejemplo de SVM
+
 https://github.com/joracab/datasciencePy/blob/ds-pages/_svm.py
 
-# ejemeplo de  regresiones
+# Ejemplo de  regresiones
 
 https://github.com/joracab/datasciencePy/blob/ds-pages/regresiones.py
