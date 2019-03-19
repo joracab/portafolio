@@ -6,7 +6,7 @@
 
 * Insercion de tableros en web
 
-https://joracab.github.io/portafolio/tableau_ejemplo1
+ https://joracab.github.io/portafolio/tableau_ejemplo1
 
  * Slider de tableros en uns sitio web
 
@@ -17,7 +17,9 @@ https://joracab.github.io/portafolio/tableau_ejemplo2
 
 https://public.tableau.com/profile/joracab1
 
+
 # PYTHON - recursos de ciencia de datos
+
 
 # Ejemplo de SVM
 
